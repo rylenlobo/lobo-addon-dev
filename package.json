@@ -1,0 +1,11 @@
+{
+  "name": "stremio-addon-lobo",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "1.1.x"
+  }
+}
